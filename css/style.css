@@ -6,3 +6,13 @@ body {
   background: #232323;
   color: white;
 }
+
+
+.title-container {
+	text-align: center;
+}
+.title-container h1 {
+	font-size: 40px;
+	font-weight: bold;
+	display: inline-block;
+}
