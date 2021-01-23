@@ -16,3 +16,9 @@ body {
 	font-weight: bold;
 	display: inline-block;
 }
+
+
+.wheel-container {
+	width: 1200px;
+	margin: 0 auto;	
+}
